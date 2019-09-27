@@ -1,2 +1,4 @@
 # Hartree-Fock-Approximation in Matlab
-$H_{2}$:  
+H2: main_H2
+
+HeH+: main_HeH
